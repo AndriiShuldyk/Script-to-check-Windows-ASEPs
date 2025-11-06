@@ -21,3 +21,5 @@ It checks:
 13. AppInit DLLs
 14. Active Setup (HKLM)
 15. Active Setup (HKCU)
+
+Main file is asepChecking.ps1
